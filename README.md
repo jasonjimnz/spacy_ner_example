@@ -1,4 +1,4 @@
-# Streamlit example
+# Spacy NER example
 
 This is a repo for start playing with Spacy adn NER Training
 
