@@ -18,7 +18,7 @@ TRAINING_TEXTS = [
     ),
     (
         "Queríamos ir a Cuenca, pero se nos estropeó el coche y no pudimos visitar las Casas Colgadas, iremos el mes que viene",
-        [(78, 92, "lugar_de_inteeres")]
+        [(78, 92, "lugar_de_interes")]
     ),
     (
         "Las construcción de la Sagrada Familia está alargándose demasiado, a ver cuando la terminan para ir a Barcelona",
